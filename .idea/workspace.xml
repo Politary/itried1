@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a00900f-6e03-42d9-9121-66a7b95c34a7" name="Default Changelist" comment="" />
+    <list default="true" id="5a00900f-6e03-42d9-9121-66a7b95c34a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/learnJS.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/basicScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="ProjectId" id="1frLVGjCg9bWO274JkdMmnBtVHW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,6 +37,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/basicScript.js" />
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -34,6 +45,17 @@
     <configuration default="true" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3">
       <method v="2" />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/basicScript.js">
+      <method v="2" />
+    </configuration>
+    <configuration name="basicScript.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/basicScript.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.basicScript.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,22 +65,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596971286910</updated>
-      <workItem from="1596971288005" duration="5523000" />
+      <workItem from="1596971288005" duration="13978000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596971419687">
+    <state x="433" y="193" key="#Notifications" timestamp="1596997452163">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1596971419687" />
-    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1596971417342">
+    <state x="433" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1596997452163" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597250259512">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1596971417342" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1597250259512" />
+    <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1597250246830">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1597250246830" />
+    <state x="561" y="267" key="Github.ShareDialog" timestamp="1596998115008">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="561" y="267" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1596998115008" />
+    <state x="503" y="74" key="Github.UntrackedFilesDialog" timestamp="1596998121089">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="503" y="74" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1596998121089" />
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom" timestamp="1597253324694">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597253324694" />
+    <state width="1345" height="166" key="GridCell.Tab.0.center" timestamp="1597253324694">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597253324694" />
+    <state width="1345" height="166" key="GridCell.Tab.0.left" timestamp="1597253324694">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597253324694" />
+    <state width="1345" height="166" key="GridCell.Tab.0.right" timestamp="1597253324694">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597253324694" />
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596997536908">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1596997536908" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1597422720588">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1597422720588" />
     <state x="391" y="125" width="672" height="678" key="search.everywhere.popup" timestamp="1596971478390">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
