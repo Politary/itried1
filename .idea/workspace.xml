@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:itriedRemote" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a00900f-6e03-42d9-9121-66a7b95c34a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learnJS.js" afterDir="false" />
+    <list default="true" id="5a00900f-6e03-42d9-9121-66a7b95c34a7" name="Default Changelist" comment="updated - now on 2.8 learn.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/basicScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/learnJS.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +37,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1frLVGjCg9bWO274JkdMmnBtVHW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,15 +85,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596971286910</updated>
-      <workItem from="1596971288005" duration="13978000" />
+      <workItem from="1596971288005" duration="21063000" />
     </task>
+    <task id="LOCAL-00001" summary="updated - now on 2.8 learn.js">
+      <created>1597430369354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597430369354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="updated - now on 2.8 learn.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated - now on 2.8 learn.js" />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="193" key="#Notifications" timestamp="1596997452163">
@@ -84,38 +134,50 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1597250259512" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1597431477488">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1597431477488" />
     <state x="463" y="110" key="FileChooserDialogImpl" timestamp="1597250246830">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1597250246830" />
-    <state x="561" y="267" key="Github.ShareDialog" timestamp="1596998115008">
+    <state x="561" y="267" key="Github.ShareDialog" timestamp="1598028380690">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="561" y="267" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1596998115008" />
+    <state x="561" y="267" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1598028380690" />
     <state x="503" y="74" key="Github.UntrackedFilesDialog" timestamp="1596998121089">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="503" y="74" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1596998121089" />
-    <state width="1345" height="166" key="GridCell.Tab.0.bottom" timestamp="1597253324694">
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom" timestamp="1597605708184">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="166" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597253324694" />
-    <state width="1345" height="166" key="GridCell.Tab.0.center" timestamp="1597253324694">
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597605708184" />
+    <state width="1345" height="166" key="GridCell.Tab.0.center" timestamp="1597605708184">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="166" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597253324694" />
-    <state width="1345" height="166" key="GridCell.Tab.0.left" timestamp="1597253324694">
+    <state width="1345" height="166" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597605708184" />
+    <state width="1345" height="166" key="GridCell.Tab.0.left" timestamp="1597605708184">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="166" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597253324694" />
-    <state width="1345" height="166" key="GridCell.Tab.0.right" timestamp="1597253324694">
+    <state width="1345" height="166" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597605708184" />
+    <state width="1345" height="166" key="GridCell.Tab.0.right" timestamp="1597605708184">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="166" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597253324694" />
-    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596997536908">
+    <state width="1345" height="166" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597605708184" />
+    <state x="129" y="56" key="MergeDialog" timestamp="1598028175902">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1596997536908" />
+    <state x="129" y="56" key="MergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1598028175902" />
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598028265113">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1598028265113" />
+    <state x="462" y="250" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597430875451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="250" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.738@0.0.1366.738" timestamp="1597430875451" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1597422720588">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
